@@ -227,10 +227,7 @@ LIST HARGA SEWA BOTZ
 ▢ PERBULAN 15K
 ▢ PERMANEN 40K
 MINAT HIBUNGI OWNER
-wa.me/6282287486762
-
-YG MAU TOP UP GAME MARI JOIN
-https://chat.whatsapp.com/KUb8JJwppqL3zLS7p9xXx7`
+wa.me/6289678418893`
 }
 exports.infoMenu = (prefix) => {
 return `
@@ -439,7 +436,7 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 
 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧
 ❏ NAMA : *RXYBOTZ*
-❏ API : @6289678418893
+❏ API : @6282288265627
 ❏ OWNER : *RaditXy7*
 ❏ API : *@6282W87486762*
 ❏ TOTAL HIT : *${cmhit.length}x HIT*
